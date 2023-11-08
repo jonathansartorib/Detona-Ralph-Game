@@ -1,10 +1,12 @@
 # Detona-Ralph-Game
 
 ## Awesome JavaScript Detona Ralph Game
+<br/>
 
-<div align="center">
-  [JOGUE AQUI!!](https://jonathansartorib.github.io/Detona-Ralph-Game/)
-</div>
+
+   [CLIQUE AQUI PARA JOGAR!!](https://jonathansartorib.github.io/Detona-Ralph-Game/)
+
+<br/>
 <br/>
 
 <p align="center">
