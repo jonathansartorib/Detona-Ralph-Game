@@ -2,6 +2,11 @@
 
 ## Awesome JavaScript Detona Ralph Game
 
+<div align="center">
+  [JOGUE AQUI!!](https://jonathansartorib.github.io/Detona-Ralph-Game/)
+</div>
+<br/>
+
 <p align="center">
   <img src="https://github.com/jonathansartorib/Detona-Ralph-Game/blob/main/src/images/screenShot.png" width="500px" alt="JSGame Detona Ralph Logo">
 </p>
