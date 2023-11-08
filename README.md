@@ -31,6 +31,7 @@ Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um j
 2. Abra o arquivo `index.html` em seu navegador web.
 3. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
 4. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
+5. Ou, clique aqui => [CLIQUE AQUI PARA JOGAR!!](https://jonathansartorib.github.io/Detona-Ralph-Game/)
 
 ### Contribuição
 
