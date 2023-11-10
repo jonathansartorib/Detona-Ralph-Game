@@ -1,6 +1,13 @@
 # Detona-Ralph-Game
 
 ## Awesome JavaScript Detona Ralph Game
+<br/>
+
+
+   [CLIQUE AQUI PARA JOGAR!!](https://jonathansartorib.github.io/Detona-Ralph-Game/)
+
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://github.com/jonathansartorib/Detona-Ralph-Game/blob/main/src/images/screenShot.png" width="500px" alt="JSGame Detona Ralph Logo">
@@ -24,6 +31,7 @@ Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um j
 2. Abra o arquivo `index.html` em seu navegador web.
 3. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
 4. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
+5. Ou, [CLIQUE AQUI PARA JOGAR!!](https://jonathansartorib.github.io/Detona-Ralph-Game/)
 
 ### Contribuição
 
