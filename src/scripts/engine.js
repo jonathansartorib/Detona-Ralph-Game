@@ -28,6 +28,7 @@ function countDown() {
         clearInterval(state.actions.countDownTimerId);
         clearInterval(state.actions.timerId);
         alert("Game Over! O seu Score foi: " + state.values.result);
+        window.location.reload();
     }
 }
 
